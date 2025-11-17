@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.h5
+*.mat
+data/raw/
+data/processed/
+.ipynb_checkpoints/
+.DS_Store
